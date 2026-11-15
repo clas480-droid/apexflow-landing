@@ -1,0 +1,6 @@
+.venv/
+.DS_Store
+Best_Mohsen_Photos/
+temp_mohsen_downloads/
+__pycache__/
+*.pyc
