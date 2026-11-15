@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://clas480-droid.github.io/apexflow-landing/sitemap.xml
